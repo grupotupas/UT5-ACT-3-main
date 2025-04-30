@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds de El Rincón del Golf</title>
+  </head>
+  <body>
+    <outline text="Blog - El Rincón del Golf" type="rss"
+      xmlUrl="https://grupotupas.github.io/UT5-ACT-3/feed/rss.xml"
+      htmlUrl="https://grupotupas.github.io/UT5-ACT-3/blog/index.html"/>
+    
+    <outline text="Podcast - El Rincón del Golf" type="rss"
+      xmlUrl="https://grupotupas.github.io/UT5-ACT-3/feed/podcast.xml"
+      htmlUrl="https://grupotupas.github.io/UT5-ACT-3/podcast/index.html"/>
+  </body>
+</opml>
