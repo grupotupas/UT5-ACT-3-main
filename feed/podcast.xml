@@ -5,33 +5,33 @@
     <link>https://grupotupas.github.io/UT5-ACT-3/podcast/</link>
     <description>Análisis y debates sobre la escena competitiva de Valorant</description>
     <language>es</language>
-    <atom:link href="https://grupotupas.github.io/UT5-ACT-3-MAIN/feed/podcast.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
+    <atom:link href="https://grupotupas.github.io/UT5-ACT-3/feed/podcast.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom"/>
 
     <item>
       <title>Episodio 1: Introducción al mundo de los eSports</title>
-      <link>https://grupotupas.github.io/UT5-ACT-3-MAIN/podcast/</link>
+      <link>https://grupotupas.github.io/UT5-ACT-3/podcast/</link>
       <description>Exploramos el inicio y la evolución de los eSports, con un enfoque especial en Valorant.</description>
       <pubDate>Fri, 28 Feb 2025 09:30:00 GMT</pubDate>
       <guid isPermaLink="false">episodio1</guid>
-      <enclosure url="https://grupotupas.github.io/UT5-ACT-3-MAIN/podcast/audios/episodio1.mp3" length="12345678" type="audio/mpeg"/>
+      <enclosure url="https://grupotupas.github.io/UT5-ACT-3/podcast/audios/episodio1.mp3" length="12345678" type="audio/mpeg"/>
     </item>
 
     <item>
       <title>Episodio 2: El camino hacia el profesionalismo en Valorant</title>
-      <link>https://grupotupas.github.io/UT5-ACT-3-MAIN/podcast/</link>
+      <link>https://grupotupas.github.io/UT5-ACT-3/podcast/</link>
       <description>Cómo convertirse en jugador profesional de Valorant, con consejos de jugadores y entrenadores.</description>
       <pubDate>Wed, 26 Feb 2025 09:30:00 GMT</pubDate>
       <guid isPermaLink="false">episodio2</guid>
-      <enclosure url="https://grupotupas.github.io/UT5-ACT-3-MAIN/podcast/audios/episodio2.mp3" length="23456789" type="audio/mpeg"/>
+      <enclosure url="https://grupotupas.github.io/UT5-ACT-3/podcast/audios/episodio2.mp3" length="23456789" type="audio/mpeg"/>
     </item>
 
     <item>
       <title>Episodio 3: Análisis de las mejores jugadas en competiciones de Valorant</title>
-      <link>https://grupotupas.github.io/UT5-ACT-3-MAIN/podcast/</link>
+      <link>https://grupotupas.github.io/UT5-ACT-3/podcast/</link>
       <description>Desglosamos algunas de las jugadas más impresionantes de los últimos torneos de Valorant.</description>
       <pubDate>Mon, 24 Feb 2025 15:45:00 GMT</pubDate>
       <guid isPermaLink="false">episodio3</guid>
-      <enclosure url="https://grupotupas.github.io/UT5-ACT-3-MAIN/podcast/audios/episodio3.mp3" length="34567890" type="audio/mpeg"/>
+      <enclosure url="https://grupotupas.github.io/UT5-ACT-3/podcast/audios/episodio3.mp3" length="34567890" type="audio/mpeg"/>
     </item>
 
   </channel>
